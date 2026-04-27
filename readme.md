@@ -47,5 +47,8 @@ Download and open this [html](./documentation/le_capybara-ibom.html) locally
 [pdf](./documentation/le_capybara-schematic.pdf)
 
 
+## Firmware
+[QMK and Vial firmware](https://github.com/sporkus/le_capybara_firmware)
+
 ## Change log
 - 2024-02-21: V1.0 release for group buy. Change mounting method to tapped plate for ease of assembly.
